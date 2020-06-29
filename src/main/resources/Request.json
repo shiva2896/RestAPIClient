@@ -1,0 +1,6 @@
+{
+"name":"string",
+"city": "string",
+"state": "string",
+"streetAddress": "string"
+}
